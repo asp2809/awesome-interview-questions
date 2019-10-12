@@ -6,12 +6,12 @@ A repository consisting of all the Computer Science related Questions asked in C
 
 - Find the Computer Science domain you want to contribute to. If the repository doesn't have a folder of your domain, then make a folder with that name.
 - In the `README.md`🧾, add the Questions in the following order:
-  - Question
+  - Question 👔
   - Correct Answer ✔
-  - Asked in Company i.e. Name of the Company
-  - Related Topics/Frameworks/Sub-domains
+  - Asked in Company i.e. Name of the Company 💻
+  - Related Topics/Frameworks/Sub-domains 🎯
 
-## Example
+## Example 🤷‍
 
 ---
 
