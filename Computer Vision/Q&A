@@ -1,0 +1,20 @@
+---
+Question : What is binarisation of image and which is the most commonly used binarisation method?
+Answer: A binary image is a digital image that has only two possible values for each pixel, 0 and 255. Most common methods are 
+Otsu's Binarisation, Sauvola's Method.
+Company: TCS
+Topic: Computer Vision, OpenCV
+---
+---
+Question : How is face detection achieved using HAAR Cascades?
+Answer: HAAR Cascades work on the menthod of feature extraction. After extracting features of the fed in image
+it runs a ML model to train on it.
+Company: Mihup Communications
+Topic: Computer Vision, OpenCV
+---
+---
+Question : How can you use a kernel to erode/dilate a RGB image?
+Answer: We can take a kernel matrix with one row representing R,G,B respectively and perform erosion/dilation.
+Company: TCS
+Topic: Computer Vision. OpenCV
+---
