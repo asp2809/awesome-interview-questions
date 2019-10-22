@@ -10,3 +10,10 @@
 **Company**: Kuliza Technologies <br/>
 **Topics**: `SpringBoot`
 
+
+**Question**: Why do we need SpringBoot Initilizr?<br/>
+**Answer**: Spring Boot Initilizr simplifies Spring Applications Development by providing initial project structure and build scripts.<br/>
+1. It reduces Development time.<br/>
+2. It increases Productivity.<br/>
+**Company**: Kuliza Technologies <br/>
+**Topics**: `SpringBoot`
