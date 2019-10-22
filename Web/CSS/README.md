@@ -1,4 +1,4 @@
-# Web Development Questions
+## CSS Development Questions
 
 **Question**: Name the types of values for the CSS Property `position`?<br/>
 **Answer**: There are 5 values for `position` property which are `static, absolute, relative, sticky and fixed`.<br/>
