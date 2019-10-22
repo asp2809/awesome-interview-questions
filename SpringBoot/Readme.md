@@ -1,6 +1,12 @@
-# Aptitude questions
+# Spring Boot questions
 
-**Question**: How do we measure `forty-five minutes` using `two identical wires`, each of which takes an hour to burn. We have matchsticks with us. The wires burn `non-uniformly`. So, for example, the two halves of a wire might burn in 10 minute and 50 minutes respectively?<br/>
-**Answer**: Light up three of the four ends of the two wires. Once one wire is completely burnt which will be 30 minutes, light up the fourth end. At 45 minutes, both wires are burnt completely.<br/>
-**Company**: SenSen Networks <br/>
-**Topics**: `Aptitude`
+**Question**: What are the main components in Spring Boot framework?<br/>
+**Answer**: Spring Boot Framework has the following components:<br/>
+1. Spring Boot Starter<br/>
+2. Spring Boot AutoConfigurator<br/>
+3. Spring Boot Actuator<br/>
+4. Spring Boot CLI<br/>
+5. Spring Boot Initilizr<br/>
+**Company**: Kuliza Technologies <br/>
+**Topics**: `SpringBoot`
+
