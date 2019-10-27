@@ -13,3 +13,10 @@
 **Topics**: `JavaScript` <br/>
 
 <hr/>
+
+**Question**: What is the difference between `==` and `===`?<br/>
+**Answer**: The `==` operator will compare for equality after doing any necessary type conversions. The `===` operator will not do the conversion, so if two values are not the same type `===` will simply return false. Both are equally quick.<br/>
+**Company**: BD <br/>
+**Topics**: `JavaScript` <br/>
+
+<hr/>
