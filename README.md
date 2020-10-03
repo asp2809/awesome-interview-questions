@@ -1,25 +1,8 @@
 # awesome-interview-questions 😎
 
-A repository consisting of all the Computer Science related Questions asked in Company Interviews.
+A repository consisting of all the Computer Science related Questions asked in Company Interviews from the point of view of the candidates who gave the interviews.
 
-## How to Contribute to this Repo 📝
+Just two major things before starting out:
 
-- Find the Computer Science domain you want to contribute to. If the repository doesn't have a folder of your domain, then make a folder with that name.
-- In the `README.md`🧾, add the Questions in the following order:
-  - Question 👔
-  - Correct Answer ✔
-  - Asked in Company i.e. Name of the Company 💻
-  - Related Topics/Frameworks/Sub-domains 🎯
-
-## Example 🤷‍
-
----
-
-**Question**: Name the types of values for the CSS Property `position`?<br/>
-**Answer**: There are 5 values for `position` property which are `static, absolute, relative, sticky and fixed`.<br/>
-**Company**: ABC <br/>
-**Topics**: `CSS`
-
----
-
-**Please make sure you don't contribute wrong answers for a question.**
+- Please make sure to read [CONTRIBUTING.md](CONTRIBUTING.md) before making a pul request.
+- **Please make sure you don't contribute wrong answers for a question or something that you haven't been asked in a professional interview.**
