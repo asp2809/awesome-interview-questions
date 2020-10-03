@@ -21,3 +21,8 @@ only for viewing data. <br/>
 **Topic**: `DBMS` <br/>
 
 <hr/>
+
+**Question** : What is E-R model? <br/>
+**Answer**: This data model is based on real world that consists of basic objects  called entities and of relationship among these objects. Entities are described in a database by a set of attributes.  <br/>
+**Company**: MAQ  <br/>
+**Topic**: `DBMS` <br/>
